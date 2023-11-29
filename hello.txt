@@ -1,1 +1,8 @@
-hello git hub
+git clone https://github.com/Gokulkrishnan3113/gittrial.git
+git status
+git add <filename>
+git commit -m "text"
+git push origin <branch_name>
+git pull
+git config --global user.email "git_mailaddress"
+git config --global user,name <git_username>
